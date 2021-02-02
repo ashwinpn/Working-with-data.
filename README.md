@@ -15,6 +15,10 @@ Skills learnt while attending the New York University Love Data Week Datathon.
 
 ## Stata
 
+- A ```.do``` file contains the list of all commands you will use.
+
+![](https://github.com/ashwinpn/Working-with-data./blob/main/resources/DataProcessing.png)
+
 ## MapReduce
 
 ## Hive
