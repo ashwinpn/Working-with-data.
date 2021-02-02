@@ -1,6 +1,8 @@
 # Working-with-data.
 Skills learnt while attending the New York University Love Data Week Datathon.
 
+![](https://github.com/ashwinpn/Working-with-data./blob/main/resources/NYU_Datathon.png)
+
 # Goal
 
 - Predictive Analytics and Prescriptive Analytics Tasks.
